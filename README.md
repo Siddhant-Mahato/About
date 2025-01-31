@@ -1,2 +1,2 @@
 # Personal-Info
-ABOUT PERSONAL INFO
+ABOUT INFO
